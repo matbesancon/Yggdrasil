@@ -10,6 +10,7 @@ sources = [
     ArchiveSource("https://scipopt.org/download/release/scipoptsuite-8.0.2.tgz", "1cfc8d31b4ef9c12fae535f5c911616491439bb79cdfa39a30e4d035f4919d96"),
 ]
 
+
 # Bash recipe for building across all platforms
 script = raw"""
 # needed for now
